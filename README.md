@@ -1,2 +1,2 @@
 # network
-basic concept or LAN with  C
+basic concept on LAN with  C
